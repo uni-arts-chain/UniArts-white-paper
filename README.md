@@ -2,7 +2,7 @@
 
 ## [白皮书](https://github.com/uni-arts-chain/UniArts-white-paper/blob/master/uniarts-white-paper.pdf)
 
-## [Uni-Arts white Paper](https://github.com/uni-arts-chain/UniArts-white-paper/blob/master/uniarts-white-paper.pdf)
+## [Uni-Arts white Paper](https://github.com/uni-arts-chain/UniArts-white-paper/blob/master/uniarts-white-paper_en.pdf)
 
 ## [轻皮书](https://github.com/uni-arts-chain/UniArts-white-paper/blob/master/uniarts-light-paper.pdf)
 
