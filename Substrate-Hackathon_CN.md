@@ -12,6 +12,11 @@ NFT / 游戏链
 
 ### 项目解决方案/架构
 
+<img src="./assets/solution.png" width="1000px">
+<img src="./assets/architecture.png" width="1000px">
+
+
+
 ### 应用场景
 - 链上NFT资产拍卖所：DAH，decentralized auction house. 是云画链生态的核心，提供NFT艺术品上链，鉴赏，拍卖等功能，初期由专门团队运营，成熟后由社区投票决定各项细则。
 - NFT艺术创作者：艺术家，直接创作加密艺术品crypto art或将实体艺术品权证登记上链。
