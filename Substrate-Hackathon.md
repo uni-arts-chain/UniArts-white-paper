@@ -1,4 +1,4 @@
-### 项目介绍
+## 项目介绍
 
 - 云画链网络是基于Substrate区块链技术开发的去中心化区块链链与跨链桥网络，专注于建设未来文化艺术品NFT资产互联网络。云画链以动漫（二次元）用户人群为切入口，计划在数字文化资产拍卖市场，数字艺术品兑换等领域进行业务拓展。目前正在研发高性能NFT资产跨链中继服务 Chain Relay，异构链跨链转接桥，非标资产跨链标准，跨链兑换协议，兼容EVM的虚拟机等等。
 
@@ -24,9 +24,9 @@ NFT / 游戏链
 - NFT买家投资人：在DAH上购买艺术品的用户。
 - NFT签名机构：提供收藏建议以及认证。
 
+---
 
-
-### Project introduction
+## Project introduction
 
 - UniArts chain network is a decentralized network and bridge network based on Substrate blockchain technology. It focuses on the establishment of NFT art assets network. UniArts chain takes Anime (Two dimensions) users as the entry point. The planning is to expand the business in the fields of digital cultural assets auction and digital art exchange. And dozens of high-performance NFT asset cross chain service are under development. "Chain Relay" "Heterogeneous chain cross bridge" "Cross chain assets standard" "Cross chain exchange agreement" "EVM compatible virtual machine" etc.
 
