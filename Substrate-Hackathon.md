@@ -46,7 +46,7 @@ NFT / Game Chain
 - Blockchain international trading market: Building digital asset trading platform based on blockchain
 - Decentralized community management: Autonomous management based on blockchain token
 
-<img src="./assets/architecture.png" width="1000px">
+<img src="./assets/architecture_en.png" width="1000px">
 
 
 ### Applications
