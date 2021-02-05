@@ -23,3 +23,31 @@ NFT / 游戏链
 - NFT鉴赏者：观赏与收藏NFT数字艺术的用户，潜在买家。
 - NFT买家投资人：在DAH上购买艺术品的用户。
 - NFT签名机构：提供收藏建议以及认证。
+
+
+
+### Project introduction
+
+- UniArts chain network is a decentralized network and bridge network based on Substrate blockchain technology. It focuses on the establishment of NFT art assets network. UniArts chain takes Anime (Two dimensions) users as the entry point. The planning is to expand the business in the fields of digital cultural assets auction and digital art exchange. And dozens of high-performance NFT asset cross chain service are under development. "Chain Relay" "Heterogeneous chain cross bridge" "Cross chain assets standard" "Cross chain exchange agreement" "EVM compatible virtual machine" etc.
+
+### Project category
+
+NFT / Game Chain
+
+### Problem to be solved
+- The traditional art origin tracing appraisal comes from the central authority. Contradictions are inevitable between the creator's judgment and the results of the central authority. UniArts chain using decentralized technology will completely eliminate this problem.
+- With the development of times and technology, the way of art creation, appreciation and preservation (display) is changing. In order to adapt to this change, UniArts chain provides a unique blockchain platform for the digital art creation, distribution, transaction and circulation.
+
+### Project solution
+
+<img src="./assets/solution.png" width="1000px">
+<img src="./assets/architecture.png" width="1000px">
+
+
+
+### Applications
+- NFT asset auction house on chain: DAH，decentralized auction house. (the core of UniArs chain ecology). Provide NFT art distribution, appreciation, auction and other functions
+- NFT art Creator: artist, create crypto art directly or register entity art on the chain
+- NFT appreciator: Users of viewing and collecting NFT Digital Art. (potential buyers)
+- NFT buyer Investor: users who buy art on DAH
+- NFT signature agency: provide collection suggestions and certification
