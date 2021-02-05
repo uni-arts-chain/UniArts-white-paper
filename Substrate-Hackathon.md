@@ -40,9 +40,13 @@ NFT / Game Chain
 
 ### Project solution
 
-<img src="./assets/solution.png" width="1000px">
-<img src="./assets/architecture.png" width="1000px">
+- NFT digital copyright certification: Online distribution of NFT digital assets and copyright certification
+- The Art origin tracing: Certificate management based on blockchain and traceability management
+- Online identification service: Open and extensible naming and identification services, enabling works of Art。
+- Blockchain international trading market: Building digital asset trading platform based on blockchain
+- Decentralized community management: Autonomous management based on blockchain token
 
+<img src="./assets/architecture.png" width="1000px">
 
 
 ### Applications
