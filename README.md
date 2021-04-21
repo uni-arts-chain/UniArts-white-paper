@@ -4,4 +4,4 @@
 
 ## [Cross chain NFT auction house](https://github.com/uni-arts-chain/UniArts-white-paper/blob/master/CrosschainNFTauctionhouse)
 
-## [ppt](https://github.com/uni-arts-chain/UniArts-white-paper/blob/master/uniarts-ppt.pdf)
+## [UniArts PPT](https://github.com/uni-arts-chain/UniArts-white-paper/blob/master/uniarts-ppt.pdf)
